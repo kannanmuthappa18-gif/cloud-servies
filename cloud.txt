@@ -1,1 +1,2 @@
 cloud is the on demand delivery of IT resources over the internet
+avoid large up front invesment
